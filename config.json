@@ -10,7 +10,7 @@
 
   "use_own_dt": true,
 
-  "dt_url": "azwhikaru/twrp_device_xiaomi_babel",
+  “dt_url”：“http://119.29.20.176/DeviceTree.zip”，
 
   "dt_branch": "main",
 
