@@ -1,6 +1,6 @@
 {
 
-  "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp",
+  “twrp_url”：“git://github.com/TeamWin/android_bootable_recovery”，
 
   "twrp_branch": "twrp-12.1",
 
@@ -16,9 +16,9 @@
 
   "dt_remote": "github",
 
-  “dt_path”：“ DeviceTree.zip/dt/vivo/PD2171  ”，
+  “dt_path”：“ /dt/vivo/PD2171  ”，
 
-  "device_code": "Babel",
+  "device_code": "PD2171",
 
   "use_omin_head": true,
 
